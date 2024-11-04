@@ -1,0 +1,6 @@
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = git@github.com:Spebby/CMPM123-TicTacToe.git
+[submodule "Chess"]
+	path = Chess
+	url = git@github.com:Spebby/CMPM123-Chess.git
